@@ -27,36 +27,3 @@ int MakeArray(int a, int b)
     }
     return result;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// Console.Write("Введите число от 1 до 7: ");
-// int n = int.Parse(Console.ReadLine()!);
-// int result = WorkingWeekendDay(n);
-
-// int WorkingWeekendDay(int n)
-// {
-// if (n >= 1 && n <= 7)
-// {
-//     if (n == 6 | n == 7) 
-//     Console.WriteLine("Сегодня выходной");
-//     else 
-//     Console.WriteLine("Сегодня рабочий день");
-// }
-// else Console.WriteLine("Не верное число");
-// return n;
-// }
-
